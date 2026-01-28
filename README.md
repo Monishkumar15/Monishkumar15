@@ -17,7 +17,14 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
 
 
-![Monishkumar15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishkumar15-r&theme=dark&show_icons=true&&hide=issues,contribs)
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Monishkumar15&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Monishkumar15&hide=css,java,html&theme=tokyonight">
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Monishkumar15" alt="Views" /> </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/monishkumarprogrammer?theme=dark&font=Marcellus&ext=contest)
 
